@@ -1,0 +1,10 @@
+.navbar {
+  @apply w-full flex justify-between items-center;
+  @apply px-4 py-2;
+  @apply bg-transparent;
+
+  h1 {
+    @apply text-slate-950 dark:text-neutral-100;
+    @apply text-xl font-semibold;
+  }
+}
