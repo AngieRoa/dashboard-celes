@@ -20,8 +20,8 @@ This repository has been created with the purpose of presenting a technical test
    ```
 4. Add environment variables file ".env" with the following variables
 
-   VITE_WEATHERMAP_API_KEY="Ask me about the value"
-   VITE_WEATHERMAP_URL="Ask me about the value"
+   - VITE_WEATHERMAP_API_KEY="Ask me about the value"
+   - VITE_WEATHERMAP_URL="Ask me about the value"
 
 ## Use
 
